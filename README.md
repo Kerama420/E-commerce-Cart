@@ -12,21 +12,21 @@ A React-based web application that allows users to browse a list of products, ad
 
 **Features**
 ***Core Deliverables:***
-    - View a list of products with their names, prices, and an "Add to Cart" button.
-    - Add products to the cart, increasing quantity if the product is already in the cart.
-    - View cart contents, including product names, prices, quantities, and the total price.
-    - Adjust the quantity of cart items or remove them.
+- View a list of products with their names, prices, and an "Add to Cart" button.
+- Add products to the cart, increasing quantity if the product is already in the cart.
+- View cart contents, including product names, prices, quantities, and the total price.
+- Adjust the quantity of cart items or remove them.
 ***Bonus Features:***
-    - Sort products by name or price (ascending/descending).
-    - Persist the cart state using localStorage.
-    - Display a message when the cart is empty.
-    - Add search functionality to filter products by name.
+- Sort products by name or price (ascending/descending).
+- Persist the cart state using localStorage.
+- Display a message when the cart is empty.
+- Add search functionality to filter products by name.
 
 **Technologies Used**
-    - React
-    - Vite (for building the project)
-    - JavaScript
-    - HTML5 & CSS3
+- React
+- Vite (for building the project)
+- JavaScript
+- HTML5 & CSS3
 
 **How to Run the Project**
 https://e-commerce-cart-ten-liart.vercel.app/
