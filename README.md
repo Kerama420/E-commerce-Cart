@@ -60,6 +60,6 @@ npm run dev
     - Filter products by name with a search bar.
 
 **Future Enhancements**
-    - Add user authentication for personalized carts.
-    - Integrate a backend to fetch product data dynamically.
-    - Improve styling with a CSS framework (e.g., Tailwind or Bootstrap).
+- Add user authentication for personalized carts.
+- Integrate a backend to fetch product data dynamically.
+- Improve styling with a CSS framework (e.g., Tailwind or Bootstrap).
