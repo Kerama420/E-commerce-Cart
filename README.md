@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 A React-based web application that allows users to browse a list of products, add them to a cart, modify quantities, and view the total price. This project is built to practice React concepts like components, props, state, events, and data management.
 
 **Features**
+
 ***Core Deliverables:***
 - View a list of products with their names, prices, and an "Add to Cart" button.
 - Add products to the cart, increasing quantity if the product is already in the cart.
