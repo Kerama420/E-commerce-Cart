@@ -17,6 +17,7 @@ A React-based web application that allows users to browse a list of products, ad
 - Add products to the cart, increasing quantity if the product is already in the cart.
 - View cart contents, including product names, prices, quantities, and the total price.
 - Adjust the quantity of cart items or remove them.
+
 ***Bonus Features:***
 - Sort products by name or price (ascending/descending).
 - Persist the cart state using localStorage.
